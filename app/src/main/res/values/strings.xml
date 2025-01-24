@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">PAYSLIP_UDAY</string>
+    <string name="pay_hour">Pay / Hour ($)</string>
+    <string name="hours_worked_week">Hours Worked / Week</string>
+    <string name="calculate">Calculate</string>
+    <string name="title">Payslip Calculator</string>
+    <string name="hours_validation_requirements">Must be between 0 and 60</string>
+    <string name="pay_validation_requirements">Must be between $55 and $105</string>
 </resources>
